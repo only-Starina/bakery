@@ -1,9 +1,11 @@
-<div class="logo-header">
-    <img src="./images/logo.svg" alt="logo">
+<div class="div1-header">
+    <a href="index.php"> <img src="./images/logo.svg" alt="logo"> </a>
 </div>
 
-<?php include_once "./templates/nav.php" ?>
+<div class="div2-header">
+    <?php include_once "./templates/nav.php" ?>
+</div>
 
-<div class="div-button-header">
+<div class="div3-header">
     <a href="tel:+380999999999"> <button type="button" class="button-header"> Замовити дзвінок </button> </a>
 </div>

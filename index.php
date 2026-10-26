@@ -13,13 +13,13 @@
 <body>
 
 <header> 
-    <?php include "./templates/header.php" ?> 
+    <?php include "./templates/header.php" ?>   <!-- html done -->
     
     <nav> 
-    <?php include_once "./templates/nav.php" ?>
+    <?php include_once "./templates/nav.php" ?>   <!-- html done -->
     </nav>
 
-    <?php include_once "./templates/header.php" ?> 
+    <?php include_once "./templates/header.php" ?>   <!-- html done -->
 </header>
 
 
@@ -35,7 +35,7 @@
 </main>
 
 <footer> 
-    <?php include_once "./templates/footer.php" ?> 
+    <?php include_once "./templates/footer.php" ?>   <!-- html done -->
 </footer>
 
 </body>
