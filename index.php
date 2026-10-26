@@ -13,12 +13,15 @@
 <body>
 
 <header> 
-    <?php include "./templates/header.php" ?> 
+    <?php include_once "./templates/header.php" ?> 
+    
+    <nav> 
+    <?php include_once "./templates/nav.php" ?>
+    </nav>
+
+    <?php include_once "./templates/header.php" ?> 
 </header>
 
-<nav> 
-    <?php include "./templates/nav.php" ?>
-</nav>
 
 <main>
 
@@ -32,7 +35,7 @@
 </main>
 
 <footer> 
-    <?php include "./templates/footer.php" ?> 
+    <?php include_once "./templates/footer.php" ?> 
 </footer>
 
 </body>

@@ -2,12 +2,7 @@
     <span> Shop Bakery </span>
 </div>
 
-<ul class="ul-header">
-    <li class="li-header"> Франшиза </li>
-    <li class="li-header"> Наші традиції </li>
-    <li class="li-header"> Формати </li>
-    <li class="li-header"> Контакти </li>
-</ul>
+<?php include_once "./templates/nav.php" ?>
 
 <div class="div-button-header">
     <button class="button-header"> Замовити дзвінок </button>
