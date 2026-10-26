@@ -13,7 +13,7 @@
 <body>
 
 <header> 
-    <?php include_once "./templates/header.php" ?> 
+    <?php include "./templates/header.php" ?> 
     
     <nav> 
     <?php include_once "./templates/nav.php" ?>
@@ -25,12 +25,12 @@
 
 <main>
 
-<section> <?php "./templates/section1.php" ?> </section>
-<section> <?php "./templates/section2.php" ?> </section>
-<section> <?php "./templates/section3.php" ?> </section>
-<section> <?php "./templates/section4.php" ?> </section>
+    <section> <?php include_once "./templates/section1.php" ?> </section>
+    <section> <?php include_once "./templates/section2.php" ?> </section>
+    <section> <?php include_once "./templates/section3.php" ?> </section>
+    <section> <?php include_once "./templates/section4.php" ?> </section>
 
-<aside>  </aside>
+    <aside> <?php include_once "./templates/aside.php" ?> </aside>
 
 </main>
 
