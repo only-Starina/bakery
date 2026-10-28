@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    
+}
+
+.div1-header {
+
+    width: auto;
+    height: auto;
+}
+
+.div2-header {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    margin: auto;
+    padding: auto;
+}
+
+.div3-header {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    margin: auto;
+    padding: auto;
+}

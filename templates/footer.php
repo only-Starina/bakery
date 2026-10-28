@@ -14,9 +14,9 @@
 
 <div class="div3-footer">
     <ul>
-        <li> <!-- istagram --> </li>
-        <li> <!-- facebook --> </li>
-        <li> <!-- pryvati policy --> </li>
+        <li> istagram </li>
+        <li> facebook </li>
+        <li> pryvati policy </li>
         <li> &copy; 2026 Shop Bakery  </li>
     </ul>
 </div>
