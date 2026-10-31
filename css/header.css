@@ -1,3 +1,9 @@
+:root {
+    --bg-color: black;  /* Цвет зиливки */
+    --color: white;  /* Цвет зиливки */
+
+}
+
 .header {
     display: flex;
     
@@ -7,7 +13,12 @@
 
     width: auto;
     height: auto;
+
+    position: relative;
+    display: block;
 }
+
+
 
 .div2-header {
 
@@ -15,9 +26,14 @@
     height: auto;
 
     position: relative;
+    display: block;
+
     margin: auto;
     padding: auto;
 }
+
+
+
 
 .div3-header {
 
@@ -25,6 +41,27 @@
     height: auto;
 
     position: relative;
+    display: block;
+
     margin: auto;
     padding: auto;
+}
+
+ .button-header{
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: block;
+
+    margin: auto;
+    padding: 10px 24px;
+
+    color: var(--color);
+    background-color: var(--bg-color);
+    font-weight: 600;
+
+    border: 2px solid var();
+    border-radius: 8px;
 }
