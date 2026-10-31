@@ -1,9 +1,3 @@
-:root {
-    --bg-color: black;  /* Цвет зиливки */
-    --color: white;  /* Цвет зиливки */
-
-}
-
 .header {
     display: flex;
     
@@ -26,7 +20,7 @@
     height: auto;
 
     position: relative;
-    display: block;
+    display: f;
 
     margin: auto;
     padding: auto;
@@ -58,7 +52,7 @@
     margin: auto;
     padding: 10px 24px;
 
-    color: var(--color);
+    color: var(--main-color);
     background-color: var(--bg-color);
     font-weight: 600;
 

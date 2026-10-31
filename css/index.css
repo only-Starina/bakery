@@ -5,6 +5,17 @@
     box-sizing: border-box;
 }
 
+
+:root {
+    --bg-color: #819b57;  /* Цвет зиливки */
+    --main-color: #faf4ea;  /* Цвет текста */
+
+}
+
+
+
 a {
     text-decoration: none;
+    color: inherit;
+    background-color: inherit;
 }

@@ -1,0 +1,27 @@
+.ul-nav {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: flex;
+
+    gap: 25px;
+
+    margin: auto;
+    padding: auto;
+}
+
+.li-nav {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: block;
+
+    margin: auto;
+    padding: auto;
+
+    color: var(--main-color);
+}

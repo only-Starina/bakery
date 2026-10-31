@@ -9,7 +9,11 @@
     <meta name="desctiption" content="">
 
     <link rel="stylesheet" href="./css/index.css">
+
     <link rel="stylesheet" href="./css/header.css">
+    <link rel="stylesheet" href="./css/nav.css">
+    
+
     <link rel="stylesheet" href="./css/footer.css">
     
     <title> Пекарня </title>
