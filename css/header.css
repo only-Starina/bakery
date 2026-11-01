@@ -10,6 +10,9 @@
 
     position: relative;
     display: block;
+
+    margin: auto;
+    padding: auto;
 }
 
 
