@@ -7,8 +7,8 @@
 
 
 :root {
-    --bg-color: #819b57;  /* Цвет зиливки */
-    --main-color: #faf4ea;  /* Цвет текста */
+    --color-dark: #819b57;  /* Цвет зиливки */
+    --color-light: #faf4ea;  /* Цвет текста */
 
 }
 
@@ -18,4 +18,8 @@ a {
     text-decoration: none;
     color: inherit;
     background-color: inherit;
+}
+
+li {
+    list-style: none;
 }

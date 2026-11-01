@@ -1,5 +1,5 @@
 <div class="div-h1">
-    <h1> Сучасна пекарня </h1>
+    <h1> <span class="span-h1"> Сучасна </span> пекарня </h1>
 </div>
 
 <ul class="ul-h1">

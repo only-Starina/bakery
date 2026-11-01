@@ -12,7 +12,9 @@
 
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/nav.css">
-    
+
+    <link rel="stylesheet" href="./css/section1.css">    
+    <link rel="stylesheet" href="./css/section2.css">
 
     <link rel="stylesheet" href="./css/footer.css">
     

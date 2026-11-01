@@ -1,0 +1,41 @@
+.div-h1 {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: block;
+
+    margin: auto;
+    padding: auto;
+
+    color: var(--main-color);
+}
+
+
+.span-h1 {
+
+   color: var(--color-dark);
+}
+
+
+
+.ul-h1 {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 5%;
+
+    margin: auto;
+    padding: 10px;
+
+    background-color: var(--color-dark);
+    color: var(--color-light);
+}

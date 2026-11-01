@@ -20,7 +20,7 @@
     height: auto;
 
     position: relative;
-    display: f;
+    display: block;
 
     margin: auto;
     padding: auto;
@@ -52,10 +52,10 @@
     margin: auto;
     padding: 10px 24px;
 
-    color: var(--main-color);
-    background-color: var(--bg-color);
+    color: var(--color-light);
+    background-color: var(--color-dark);
     font-weight: 600;
 
-    border: 2px solid var();
+    border: 2px solid var(--color-dark);
     border-radius: 8px;
 }

@@ -10,18 +10,6 @@
 
     margin: auto;
     padding: auto;
-}
 
-.li-nav {
-
-    width: auto;
-    height: auto;
-
-    position: relative;
-    display: block;
-
-    margin: auto;
-    padding: auto;
-
-    color: var(--main-color);
+    color: var(--color-light);
 }
