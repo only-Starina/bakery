@@ -1,5 +1,5 @@
-.ul-nav {
-
+header .ul-nav {
+    
     width: auto;
     height: auto;
 
@@ -7,6 +7,22 @@
     display: flex;
 
     gap: 25px;
+
+    margin: auto;
+    padding: auto;
+
+    color: var(--color-light);
+}
+
+
+
+footer .ul-nav {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: block;
 
     margin: auto;
     padding: auto;
