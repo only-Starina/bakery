@@ -1,16 +1,32 @@
-.h2 {
+.div1-h2 {
 
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: block;
+
+    margin: auto;
+    padding: auto;
 }
 
-p {
 
+
+.div2-h2 {
+
+    width: auto;
+    height: auto;
+
+    position: relative;
+    display: block;
+
+    margin: auto;
+    padding: auto;
 }
 
-p span {
 
-    color: var(--bg-color);
-}
+.div2-h2 p span {
 
-img {
-
+    font-weight: 600;
+    color: var(--color-dark);
 }

@@ -15,6 +15,7 @@
 
     <link rel="stylesheet" href="./css/section1.css">    
     <link rel="stylesheet" href="./css/section2.css">
+    <link rel="stylesheet" href="./css/section3.css">
 
     <link rel="stylesheet" href="./css/footer.css">
     
