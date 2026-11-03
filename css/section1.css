@@ -4,12 +4,18 @@
     height: auto;
 
     position: relative;
-    display: block;
+    display: flex;
 
     margin: auto;
     padding: auto;
 
+    justify-content: center;
+    align-items: center;
+
     color: var(--color-light);
+
+    font-size: 67px;
+    font-style: italic;
 }
 
 

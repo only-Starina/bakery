@@ -6,12 +6,13 @@ header .ul-nav {
     position: relative;
     display: flex;
 
-    gap: 25px;
+    gap: 24px;
 
     margin: auto;
     padding: auto;
 
     color: var(--color-light);
+
 }
 
 
