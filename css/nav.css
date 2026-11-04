@@ -6,7 +6,10 @@ header .ul-nav {
     position: relative;
     display: flex;
 
-    gap: 24px;
+    justify-content: center;
+    align-items: center;
+
+    gap: 64px;
 
     margin: auto;
     padding: auto;
