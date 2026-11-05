@@ -4,10 +4,12 @@
     height: 736px;
 
     position: relative;
-    display: block;
+    display: flex;
 
     margin: auto;
     padding: auto;
+
+    flex-direction: column;
 
     background-image: url(../images/section1.jpg);
     background-repeat: no-repeat;
@@ -53,10 +55,10 @@
     align-items: center;
     justify-content: center;
 
-    gap: 5%;
+    gap: 12%;
 
     margin: auto;
-    padding: 10px;
+    padding: 16px 0;
 
     background-color: var(--color-dark);
     color: var(--color-light);
