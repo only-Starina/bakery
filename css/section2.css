@@ -43,6 +43,7 @@
 
 
 .span-h2 {
+    font-weight: 900;
     margin-bottom: 42px;
 }
 
@@ -90,4 +91,10 @@
     padding: auto;
 
     flex-direction: row;
+}
+
+
+
+#img-h2 {
+    border-radius: 400px 400px 0 0;
 }
