@@ -1,12 +1,12 @@
 .section1 {
 
     width: 100vw;
-    height: 736px;
+    height: 799px;
 
     position: relative;
     display: flex;
 
-    margin: auto;
+    margin-top: -86px;
     padding: auto;
 
     flex-direction: column;
@@ -58,7 +58,9 @@
     gap: 12%;
 
     margin: auto;
-    padding: 16px 0;
+    padding: 18px 0;
+
+    font-size: 19px;
 
     background-color: var(--color-dark);
     color: var(--color-light);
