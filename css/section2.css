@@ -7,7 +7,9 @@
     display: flex;
 
     margin: auto;
-    padding: auto;
+    padding: 0 79px;
+    
+    background-color: #faf4ea;
 }
 
 
@@ -88,7 +90,7 @@
     display: flex;
 
     margin: auto;
-    padding: auto;
+    padding: 92px 0;
 
     flex-direction: row;
 }

@@ -3,8 +3,8 @@ header {
     position: relative;
 
     margin: 0 auto;
-    padding: 0 24px;
-    padding-top: 32px;
+    padding: 0 60px;
+    padding-top: 36px;
     
     background: rgba(255, 255, 255, 0);
 
@@ -38,6 +38,9 @@ header {
 
     margin: auto;
     padding: auto;
+
+    padding-bottom: 7px;
+
 }
 
 

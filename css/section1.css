@@ -1,17 +1,17 @@
 .section1 {
 
     width: 100vw;
-    height: 799px;
+    height: 802px;
 
     position: relative;
     display: flex;
 
-    margin-top: -86px;
+    margin-top: -90px;
     padding: auto;
 
     flex-direction: column;
 
-    background-image: url(../images/section1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../images/section1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -33,7 +33,7 @@
     color: var(--color-light);
 
     font-size: 67px;
-    font-style: italic;
+    font-weight: 900;
 }
 
 
@@ -55,12 +55,13 @@
     align-items: center;
     justify-content: center;
 
-    gap: 12%;
+    gap: 12.5%;
 
     margin: auto;
     padding: 18px 0;
 
-    font-size: 19px;
+    font-size: 20px;
+    font-weight: 300;
 
     background-color: var(--color-dark);
     color: var(--color-light);
