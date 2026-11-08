@@ -1,6 +1,6 @@
 <a name="chefs"></a>
 
-<h3 class="h3"> Наші сучасні шеф-кухарі</h3>
+<h3 class="h3"> Наші найкращі шеф-кухарі</h3>
 
 <div class="div-h3"> 
     <h1 class=tittle-h3> Настя </h1>

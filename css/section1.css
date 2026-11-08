@@ -11,7 +11,7 @@
 
     flex-direction: column;
 
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../images/section1.jpg);
+    background-image: linear-gradient(to right, rgba(16, 16, 16, 0.8), rgba(16, 16, 16, 0.7), rgba(16, 16, 16, 0.6), rgba(0, 0, 0, 0)), url(../images/section1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
