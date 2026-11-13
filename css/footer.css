@@ -1,15 +1,25 @@
 .footer {
     display: flex;
+
+    background-color: #31261A;
+
+    background-image: url(../images/footer.png);
+    background-position: cover;
+    background-repeat: no-repeat;
 }
 
 .div1-footer {
 
 }
 
-.div3-footer {
+.div2-footer {
 
 }
 
 .div3-footer {
+    
+}
+
+.div4-footer {
     
 }
