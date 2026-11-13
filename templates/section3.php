@@ -5,9 +5,9 @@
 
 <div class="divs-h3">
 
-    <div class="div11-h3"> 
+    <img src="./images/section-3-nastya.jpg" alt="">
 
-        <img src="" alt="">
+    <div class="div11-h3"> 
 
         <h1 class=tittle-h3> Настя </h1>
 
@@ -18,15 +18,17 @@
     </div>
 
 
-    <div class="div22-h3"> 
 
-        <img src="" alt="">
+    <img src="./images/section-3-vlad.jpg" alt="">
+
+    <div class="div22-h3"> 
 
         <h1 class=tittle-h3> Влад </h1>
 
         <p> Привіт, я Влад!  </p>
         <p> Мій кондитерський стаж вже 18 років. SHOP BEKERY - це наша любов, з якою ми ділимось кожен раз з вами через нашу випічку! </p>
         <p> Я зроблю для вас унікальну начинку на будь який смак! </p>
+    
     </div>
 
 </div>
